@@ -1,8 +1,6 @@
 # Hello, I'm Mohammad Ali
 <a href="https://www.linkedin.com/in/mohammad-ali-2064b4295/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
 Cybersecurity enthusiast with hands-on experience in penetration testing, threat analysis, and system defense. Passionate about safeguarding digital landscapes through ethical hacking, vulnerability assessments, and cutting-edge security solutions.
 
 ## Objective
@@ -13,15 +11,15 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Honeypot Deployment and Attack Detection      | <a href="https://github.com/link-to-honeypot-project">Honeypot Deployment on AWS (T-Pot)</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Snort IDS Setup and Rule Configuration        | <a href="https://github.com/link-to-snort-project">Snort Setup</a> |
+| Security Incident Response and Case Management| SOC Automation Lab|
+| Threat Hunting and Malware Analysis           | SOC Automation Lab|
+| Cloud Security Practices and Risk Management  | AWS Security Project |
+| Vulnerability Assessment and Penetration Testing | PenTesting Project |
 
 ## Tools
-
 
 ### Network
 <div>
@@ -56,5 +54,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Detection Lab](https://github.com/link-to-detection-lab)
+- [SOC Automation Project](https://github.com/link-to-soc-automation)
+- [Honeypot Deployment on AWS (T-Pot)](https://github.com/link-to-honeypot-project)
+- [Snort IDS Setup and Rule Configuration](https://github.com/link-to-snort-project)

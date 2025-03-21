@@ -11,7 +11,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Honeypot Deployment and Attack Detection      | <a href="https://github.com/link-to-honeypot-project">Honeypot Deployment on AWS (T-Pot)</a> |
+| Honeypot Deployment and Attack Detection      | <a href="https://github.com/Ali-CyberSec/-Honeypot-Deployment-on-AWS">Honeypot Deployment on AWS (T-Pot)</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Snort IDS Setup and Rule Configuration        | <a href="https://github.com/link-to-snort-project">Snort Setup</a> |
 | Security Incident Response and Case Management| SOC Automation Lab|

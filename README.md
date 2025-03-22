@@ -13,7 +13,7 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 |-----------------------------------------------|----------------------------|
 | Honeypot Deployment and Attack Detection      | <a href="https://github.com/Ali-CyberSec/-Honeypot-Deployment-on-AWS">Honeypot Deployment on AWS (T-Pot)</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Snort IDS Setup and Rule Configuration        | <a href="https://github.com/link-to-snort-project">Snort Setup</a> |
+| Snort IDS Setup and Rule Configuration        | <a href="https://github.com/Ali-CyberSec/Snort-IDS-Setup-and-Rule-Configuration">Snort Setup</a> |
 | Security Incident Response and Case Management| SOC Automation Lab|
 | Threat Hunting and Malware Analysis           | SOC Automation Lab|
 | Cloud Security Practices and Risk Management  | AWS Security Project |
@@ -57,4 +57,4 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 - [Detection Lab](https://github.com/link-to-detection-lab)
 - [SOC Automation Project](https://github.com/link-to-soc-automation)
 - [Honeypot Deployment on AWS (T-Pot)](https://github.com/link-to-honeypot-project)
-- [Snort IDS Setup and Rule Configuration](https://github.com/link-to-snort-project)
+- [Snort IDS Setup and Rule Configuration](https://github.com/Ali-CyberSec/Snort-IDS-Setup-and-Rule-Configuration)

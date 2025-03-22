@@ -15,8 +15,8 @@ My journey in cybersecurity has strengthened my passion for threat detection and
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Ali-CyberSec/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
 | Snort IDS Setup and Rule Configuration        | <a href="https://github.com/Ali-CyberSec/Snort-IDS-Setup-and-Rule-Configuration">Snort Setup</a> |
 | Security Incident Response and Case Management| <a href="https://github.com/Ali-CyberSec/Security-Incident-Response-and-Case-Management/blob/main/README.md">SOC Automation Lab</a> |
-| Cloud Security Practices and Risk Management  | AWS Security Project |
-| Vulnerability Assessment and Penetration Testing | Pentesting Project |
+| Cloud Security Practices and Risk Management  | <a href="https://github.com/Ali-CyberSec/Cloud-Security-Practices-and-Risk-Management">AWS Security Project</a> |
+| Vulnerability Assessment and Penetration Testing | Coming soon.... |
 
 ## Tools
 
